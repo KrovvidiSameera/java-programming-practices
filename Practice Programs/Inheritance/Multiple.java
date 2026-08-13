@@ -1,3 +1,4 @@
+package javacore;
 interface Father {
     void work();
 }
