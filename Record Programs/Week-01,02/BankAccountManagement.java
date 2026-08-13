@@ -53,7 +53,7 @@ class CurrentAccount extends Account {
             System.out.println("Exceeds overdraft limit");
     }
 }
-public class BankManagementSystem {
+public class BankAccountManagementSystem {
     static void transfer(Account from, Account to, double amount) {
         if (amount > 0 && amount <= from.balance) {
             from.balance -= amount;
