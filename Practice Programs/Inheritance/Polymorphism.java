@@ -1,3 +1,4 @@
+package javacore;
 class A{
     int x=5;
     int access=4568;
