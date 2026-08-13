@@ -1,3 +1,4 @@
+package javacore;
 class Account {
     int accountNumber;
     double balance;
