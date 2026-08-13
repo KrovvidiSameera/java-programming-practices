@@ -1,3 +1,4 @@
+package javacore;
 abstract class Abstract{
     int a=100,b;
     void sample(){
