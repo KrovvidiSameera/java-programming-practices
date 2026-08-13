@@ -1,3 +1,4 @@
+package javacore;
 public class Demo {
     int e=5;  // class variable
     int add(){
