@@ -1,3 +1,4 @@
+package javacore;
 public class ConDemo {
     int rollno;
     String name;
