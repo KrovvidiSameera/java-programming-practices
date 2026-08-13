@@ -1,3 +1,4 @@
+package javacore;
 class Sample{
     int x;
     float y;
