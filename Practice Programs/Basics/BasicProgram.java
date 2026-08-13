@@ -1,3 +1,4 @@
+package javacore;
 public class SampleProg {   
     int t=5;
     int add() {
