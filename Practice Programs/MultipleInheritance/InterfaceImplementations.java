@@ -1,3 +1,4 @@
+package javacore;
 interface I1{
     int a=25;
 
