@@ -1,3 +1,4 @@
+package javacore;
 public class DoubleCon {
     int i;
     String n;
