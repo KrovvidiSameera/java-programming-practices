@@ -35,13 +35,13 @@ class NormalOrder extends Order {
 public class Main {
     public static void main(String[] args) {
         Customer c = new Customer();
-        c.name = "Reshma";
-        c.location = "Visakhapatnam";
+        c.name = "Sameera";
+        c.location = "Vizianagaram";
         SpecialOrder so = new SpecialOrder();
-        so.date = "13-08-2026";
-        so.number = "S101";
+        so.date = "22-09-2026";
+        so.number = "S202";
         NormalOrder no = new NormalOrder();
-        no.date = "13-08-2026";
+        no.date = "22-09-2026";
         no.number = "N102";
         System.out.println("Customer: " + c.name);
         System.out.println("Location: " + c.location);
