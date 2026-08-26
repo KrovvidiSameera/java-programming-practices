@@ -1,4 +1,4 @@
-
+package javacore;
 interface I2 {
     void add();
 }
