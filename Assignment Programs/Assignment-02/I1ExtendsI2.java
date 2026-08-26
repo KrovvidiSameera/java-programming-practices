@@ -11,11 +11,11 @@ class C1 implements I1 {
 
     int a = 20;
     int b = 10;
-
+  @Override
     public void add() {
         System.out.println("Addition = " + (a + b));
     }
-
+ @Override
     public void subtract() {
         System.out.println("Subtraction = " + (a - b));
     }
