@@ -1,3 +1,4 @@
+package stringmethods;
 class TrimExample {
     public static void main(String[] args) {
         String str = "   Hello Java   ";
