@@ -1,3 +1,4 @@
+package stringmethods;
 class UpperCaseExample {
     public static void main(String[] args) {
         String str = "hello java";
