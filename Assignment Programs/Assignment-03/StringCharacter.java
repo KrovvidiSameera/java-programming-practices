@@ -1,3 +1,4 @@
+package stringmethods;
 class CharAtExample {
     public static void main(String[] args) {
         String str = "Java";
