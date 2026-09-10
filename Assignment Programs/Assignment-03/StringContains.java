@@ -1,12 +1,10 @@
-class ConcatExample {
+class ContainsExample {
     public static void main(String[] args) {
-        String str1 = "Hello ";
-        String str2 = "World";
+        String str = "Hello Java";
 
-        String result = str1.concat(str2);
+        boolean result = str.contains("Java");
 
-        System.out.println("First String: " + str1);
-        System.out.println("Second String: " + str2);
-        System.out.println("Result: " + result);
+        System.out.println("String: " + str);
+        System.out.println("Contains Java? " + result);
     }
 }
