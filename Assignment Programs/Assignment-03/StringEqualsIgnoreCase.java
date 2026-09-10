@@ -1,3 +1,4 @@
+package stringmethods;
 class EqualsIgnoreCaseExample {
     public static void main(String[] args) {
         String str1 = "Java";
