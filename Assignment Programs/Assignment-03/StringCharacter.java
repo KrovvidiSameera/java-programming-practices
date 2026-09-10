@@ -1,8 +1,8 @@
-class LengthExample {
+class CharAtExample {
     public static void main(String[] args) {
-        String str = "Hello";
+        String str = "Java";
 
         System.out.println("String: " + str);
-        System.out.println("Length: " + str.length());
+        System.out.println("Character at index 2: " + str.charAt(2));
     }
 }
