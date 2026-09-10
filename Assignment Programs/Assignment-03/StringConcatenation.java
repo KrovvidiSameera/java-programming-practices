@@ -1,8 +1,12 @@
-class CharAtExample {
+class ConcatExample {
     public static void main(String[] args) {
-        String str = "Java";
+        String str1 = "Hello ";
+        String str2 = "World";
 
-        System.out.println("String: " + str);
-        System.out.println("Character at index 2: " + str.charAt(2));
+        String result = str1.concat(str2);
+
+        System.out.println("First String: " + str1);
+        System.out.println("Second String: " + str2);
+        System.out.println("Result: " + result);
     }
 }
