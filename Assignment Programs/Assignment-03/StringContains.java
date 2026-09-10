@@ -1,3 +1,4 @@
+package stringmethods;
 class ContainsExample {
     public static void main(String[] args) {
         String str = "Hello Java";
