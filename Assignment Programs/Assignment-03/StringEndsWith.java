@@ -1,12 +1,10 @@
-class EqualsExample {
+class EndsWithExample {
     public static void main(String[] args) {
-        String str1 = "Java";
-        String str2 = "Java";
+        String str = "Hello Java";
 
-        boolean result = str1.equals(str2);
+        boolean result = str.endsWith("Java");
 
-        System.out.println("First String: " + str1);
-        System.out.println("Second String: " + str2);
-        System.out.println("Are they equal? " + result);
+        System.out.println("String: " + str);
+        System.out.println("Ends with Java? " + result);
     }
 }
