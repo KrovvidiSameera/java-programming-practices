@@ -435,3 +435,91 @@ public class StudentUtilityProgram {
         sc.close();
     }
 }
+
+/*Output
+===== STUDENT UTILITY PROGRAM =====
+1. Student Information
+2. Even or Odd
+3. Largest of Three Numbers
+4. Grade
+5. Day of Week
+6. Multiplication Table
+7. Numbers from 1 to N
+8. Sum of First N Natural Numbers
+9. Fibonacci Series
+10. Factorial
+11. Prime Number
+12. Maximum of Two Numbers
+13. Area of Circle
+14. Exit
+Enter your choice: 1
+Enter Name: Sameera
+Enter Roll Number: 226
+Enter Marks in Subject 1: 96
+Enter Marks in Subject 2: 95
+Enter Marks in Subject 3: 94
+
+Student Details
+Name : Sameera
+Roll Number : 226
+Total : 285
+Percentage : 95.0
+
+===== STUDENT UTILITY PROGRAM =====
+1. Student Information
+2. Even or Odd
+3. Largest of Three Numbers
+4. Grade
+5. Day of Week
+6. Multiplication Table
+7. Numbers from 1 to N
+8. Sum of First N Natural Numbers
+9. Fibonacci Series
+10. Factorial
+11. Prime Number
+12. Maximum of Two Numbers
+13. Area of Circle
+14. Exit
+Enter your choice: 9
+Enter Number of Terms: 5
+0 1 1 2 3 
+
+===== STUDENT UTILITY PROGRAM =====
+1. Student Information
+2. Even or Odd
+3. Largest of Three Numbers
+4. Grade
+5. Day of Week
+6. Multiplication Table
+7. Numbers from 1 to N
+8. Sum of First N Natural Numbers
+9. Fibonacci Series
+10. Factorial
+11. Prime Number
+12. Maximum of Two Numbers
+13. Area of Circle
+14. Exit
+Enter your choice: 13
+Enter Radius: 45
+Area = 6358.500000000001
+
+===== STUDENT UTILITY PROGRAM =====
+1. Student Information
+2. Even or Odd
+3. Largest of Three Numbers
+4. Grade
+5. Day of Week
+6. Multiplication Table
+7. Numbers from 1 to N
+8. Sum of First N Natural Numbers
+9. Fibonacci Series
+10. Factorial
+11. Prime Number
+12. Maximum of Two Numbers
+13. Area of Circle
+14. Exit
+Enter your choice: 2
+Enter Number: 55
+Odd Number
+*/
+
