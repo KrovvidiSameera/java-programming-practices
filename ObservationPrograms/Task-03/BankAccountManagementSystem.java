@@ -197,3 +197,20 @@ public class BankAccountManagement {
         current.display();
     }
 }
+
+/*Output
+Account Number: 2002
+Account type: Savings Account
+Balance: 500000.0
+Interest: 15090.0
+Account Number: 2003
+Account type: Current Account
+Balance: 5000.0
+Transfer successful
+Account Number: 2002
+Account type: Savings Account
+Balance: 516090.0
+Account Number: 2003
+Account type: Current Account
+Balance: -3000.0
+*/
