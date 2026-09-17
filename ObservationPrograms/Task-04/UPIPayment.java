@@ -175,3 +175,39 @@ public class MainUPIPayment {// PaymentService Interface
             );
         }
     }
+
+/*Output
+----- Wallet Details -----
+User Name    : Sameera
+Mobile Number: 9876543210
+UPI ID       : sameera@upi
+Balance      : ₹0.0
+Money added successfully: ₹5000.0
+Available Wallet Balance: ₹5000.0
+
+--- Valid Payment ---
+
+Payment Successful!
+Receiver UPI ID: priyanka@upi
+Amount Paid     : ₹1500.0
+Transaction processing completed.
+Available Wallet Balance: ₹3500.0
+
+--- Invalid UPI Test ---
+Transaction Failed: Invalid UPI ID: priyankaupi
+Transaction processing completed.
+
+--- Invalid Amount Test ---
+Transaction Failed: Payment amount must be greater than zero.
+Transaction processing completed.
+
+--- Insufficient Balance Test ---
+Transaction Failed: Insufficient balance for this payment.
+Transaction processing completed.
+
+----- Wallet Details -----
+User Name    : Sameera
+Mobile Number: 9876543210
+UPI ID       : sameera@upi
+Balance      : ₹3500.0
+*/
