@@ -312,3 +312,41 @@ public class LibraryManagementSystem {
         r.print();
     }
 }
+
+/*Output
+Default Constructor Called
+
+Book Details
+Book ID : 101
+Book Name : Java Programming
+Author : James Gosling
+Price : 550.0
+
+Parameterized Constructor
+Book ID : 102
+Book Name : Python
+Author : Guido
+Price : 700.0
+
+Student Details
+Name : sara
+Age : 12
+Roll No : 125
+
+Faculty Details
+Name : sara
+Age : 12
+Subject : Java
+
+Area of Square = 25
+Area of Rectangle = 200
+Area of Circle = 63.585
+
+This is a Car
+This is a Bike
+
+Drawing Circle
+Drawing Rectangle
+
+Printing Library Report
+*/
