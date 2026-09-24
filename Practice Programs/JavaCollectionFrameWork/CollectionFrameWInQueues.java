@@ -33,3 +33,14 @@ import java.util.LinkedList;
             System.out.println("Queue after removal: " + q);
         }
     }
+/*Output
+Queue: [A, B, C]
+After offer: [A, B, C, D]
+Head using peek: A
+Head using element: A
+Removed using poll: A
+Removed using remove: B
+Queue after removal: [C, D]
+
+Process finished with exit code 0
+*/
