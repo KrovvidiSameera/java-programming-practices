@@ -28,7 +28,7 @@ import java.util.ArrayList;
             System.out.println(frameworkList);
         }
     }
-/*
+/*Output
 [Happy, Angry, Sad, 2000, 87.23, false, 800]
 [900, Happy, Angry, Sad, 2000, 800, 87.23, false, 800]
 true
