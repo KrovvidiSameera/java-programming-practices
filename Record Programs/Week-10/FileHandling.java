@@ -5,6 +5,7 @@ If Peter Piper picked a peck of pickled peppers
 Where's the peck of pickled peppers Peter Piper picked?
 
 File 2: "PatternFrequency.java"
+package javacore;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
